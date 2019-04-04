@@ -1,0 +1,6 @@
+[submodule "blog-client"]
+	path = blog-client
+	url = https://github.com/w-rudolph/blog-client.git
+[submodule "blog-server"]
+	path = blog-server
+	url = https://github.com/w-rudolph/blog-server.git
